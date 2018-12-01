@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main {
+  int al = 2333; 
+  printf("hello,%f\n", al);
+  /*
+  	这是一段注释
+  */
+  return 0;
+}
